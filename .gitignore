@@ -1,0 +1,4 @@
+# Remove virtual environement
+/venv/
+# Remove Clion config folder
+/.idea/
